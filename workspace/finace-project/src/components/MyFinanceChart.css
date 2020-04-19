@@ -1,0 +1,16 @@
+
+      
+#chart {
+  width: 100%;
+  max-width: 650px;
+  margin: 35px auto;
+  overflow: hidden;
+}
+
+.apexcharts-yaxis-label, .apexcharts-xaxis-label {
+  fill: #fff;
+}
+
+.apexcharts-title-text {
+  fill: #fff;
+}
